@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationGame", "CombinationGame\CombinationGame.csproj", "{A2A00857-DA71-435B-A8D7-5AD5AD00B55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A00857-DA71-435B-A8D7-5AD5AD00B55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A00857-DA71-435B-A8D7-5AD5AD00B55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A00857-DA71-435B-A8D7-5AD5AD00B55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A00857-DA71-435B-A8D7-5AD5AD00B55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213D7473-6AFC-4D7B-B716-58AAC3A3DC4E}
+	EndGlobalSection
+EndGlobal
