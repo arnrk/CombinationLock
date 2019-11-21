@@ -20,7 +20,8 @@ namespace CombinationGame
             int randOne = Random.Next(1, 6);
             int randTwo = Random.Next(1, 6);
             int randThree = Random.Next(1, 6);
-            Console.WriteLine($"\n (Random 4 digit answer is {rand}{randOne}{randTwo}{randThree})");
+            //Uncomment to Display Hidden Answer In The View
+            //Console.WriteLine($"\n (Random 4 digit answer is {rand}{randOne}{randTwo}{randThree})");
 
 
             while (inAction)
