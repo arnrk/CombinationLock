@@ -159,7 +159,7 @@ namespace CombinationGame
 
                 }
 
-                if (attempts > 11)
+                if (attempts > 10)
                     break;
 
 
